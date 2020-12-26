@@ -1,0 +1,31 @@
+div{
+    margin: auto;
+    border: 1px solid black;
+    width: 39em;
+    height: 19em;
+    margin-top: 2em;
+    padding: 1.2em;
+    }
+    .bl{
+    position: relative;
+    bottom: 2.5em;
+    right:1.4em;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-left: .3em;
+    height: 72%;
+    width: 98%;
+    border: none;
+    
+    }
+    a.w2{
+    position: relative;
+    bottom: 2.6em;
+    left: 34em;
+    list-style: none;
+    
+    }
+    a{
+    text-decoration: none;
+    }
+    
